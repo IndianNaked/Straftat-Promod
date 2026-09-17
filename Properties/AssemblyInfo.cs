@@ -11,7 +11,6 @@ using ComputerysModdingUtilities;
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: StraftatMod(isVanillaCompatible: true)]
 
 [assembly: ComVisible(false)]
 
