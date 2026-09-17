@@ -1,6 +1,6 @@
 {
     "name": "ProMod",
-    "version_number": "3",
+    "version_number": "1.0.0",
     "website_url": "https://github.com/IndianNaked/Straftat-Promod",
     "description": "Promod for the game Straftat",
     "dependencies": [
