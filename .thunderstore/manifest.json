@@ -1,0 +1,9 @@
+{
+    "name": "ProMod",
+    "version_number": "3",
+    "website_url": "https://github.com/IndianNaked/Straftat-Promod",
+    "description": "Promod for the game Straftat",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2305"
+	]
+}
