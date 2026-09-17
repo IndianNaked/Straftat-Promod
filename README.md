@@ -3,8 +3,8 @@
 This is the official release for Straftat ProMod!
 
 Additional features in this package:
-	- ProMod Hitmarkers
-	- ProMod DamageNumbers
+- ProMod Hitmarkers
+- ProMod DamageNumbers
 	
 _**THIS MOD IS DESIGNED AS A NON-VANILLA COMPATIBLE MOD. ANY ATTEMPT TO USE THIS MOD IN A VANILLA COMPATIBLE SETTING MAY BE CONSIDERED CHEATING**_
 
